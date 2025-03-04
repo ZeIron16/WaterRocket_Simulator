@@ -11,4 +11,4 @@ This project is a TIPE  realized in Camille Guérin CPGE in 2023-2024.
 3- Compile and run it
 
 
-You can modify any part of the program to make it correspond to your wish.
+You can modify any part of the program to make it correspond to what you want.
