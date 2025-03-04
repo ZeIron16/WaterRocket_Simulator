@@ -1,5 +1,7 @@
 # WaterRocket_Simulator
+
 **Usage :**
+
 1- Dowload all the C files and the header
 2- If you don't want to recompile all parts, you can use the .o files but it's not recommanded
 3- Compile and run it
