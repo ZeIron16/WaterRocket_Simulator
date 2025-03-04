@@ -1,5 +1,7 @@
 # WaterRocket_Simulator
 
+This project is a TIPE  realized in Camille Guérin CPGE in 2023-2024.
+
 **Usage :**
 
 1- Dowload all the C files and the header
